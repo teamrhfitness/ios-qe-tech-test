@@ -8,6 +8,6 @@ That content is a list of Xcode shortcuts, the data is stored in a local json fi
 Task: 
 Write 2-3 XCUITests for the Shortcut app. Feel free to select the scenario of your choice. 
 
-Once completed please share your project on Github with Faith Whittaker (faith.whittaker@teamrhfitness.com) or Holly Beattie (holly.beattie@teamrhfitness.com) along with a README that contains a brief description of your implementation and what you would like to have added if you had more time.
+Once completed please share your GitHub project link with hr@teamrhfitness.com along with a README that contains a brief description of your implementation and what you would like to have added if you had more time.
 
 Please don't hesitate to contact us if you need any clarification on the test. Thanks for your time, we look forward to hearing from you!
